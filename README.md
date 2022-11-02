@@ -12,4 +12,4 @@ Repo for use case of ML in FIFA 22. Following are the planned process -
 
 1) Segmenting select number of players based on pre-defined number of clusters
 2) Using Clustering to group player based on similar skill-sets i.e., finding similar players within Midfield, Attack, Defence
-5) //Advaned data analysis//
+5) //Advance data analysis//
